@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-
+ 
 FILE="2025.md"
 PROJECTS_FILE="projects.yml"
 
