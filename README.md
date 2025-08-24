@@ -1,2 +1,2 @@
-# todo-tools
-A system of bash scripts that can be used for making markdown todo lists more efficient
+# TODO Tools
+Gathering Todo items in a markdown file seems like a pragmatic choice for a lot of projects. This tool helps you do that.
